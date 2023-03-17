@@ -15,6 +15,8 @@ In this workshop, we will perform spatial analysis on ridehail trips in NYC. We 
         b) Introduce the concept of spatial autocorrelation
         c) Introduce the Local Moran's I statistic (a local measurement of spatial autocorrelation)
         d) Detect statistically significant clusters (hotspots & coldspots) and outliers (diamonds & doughnuts)
+        
+See [notebook.ipynb](https://github.com/willgeary/PythonSpatialDataScience/blob/main/notebook.ipynb) for the complete code behind this workshop.
 
 ## Optional Setup Instructions
 
