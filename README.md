@@ -24,27 +24,27 @@ This workshop will require Python 3 and several packages, including `geopandas`,
 
 You can simply install the above in your own existing Python enviroment, or if you wish, you may optionally spin up a conda environment to exactly match mine with the following steps.
 
-1) Clone the repository
+1) Clone the repository:
 
 `git clone https://github.com/willgeary/PythonSpatialDataScience`
 
-2) Enter the respository
+2) Change directory into the respository:
 
 `cd PythonSpatialDataScience`
 
-3) Create the conda environment
+3) Create the conda environment:
 
 `conda env create --file environment.yml --force`
 
-4) Activate the conda environment
+4) Activate the conda environment:
 
 `conda activate spatialstats`
 
-5) Add the environment as a kernel to Jupyter Lab
+5) Add the environment as a kernel to Jupyter Lab:
 
 `python -m ipykernel install --sys-prefix --name spatialstats`
 
-6) Launch Jupyter Lab
+6) Launch Jupyter Lab:
 
 `jupyter lab`
 
