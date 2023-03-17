@@ -18,7 +18,7 @@ In this workshop, we will perform spatial analysis on ridehail trips in NYC. We 
         
 See [notebook.ipynb](https://github.com/willgeary/PythonSpatialDataScience/blob/main/notebook.ipynb) for the complete code behind this workshop.
 
-## Optional Setup Instructions
+## [Optional] Setup Instructions
 
 This workshop will require Python 3 and several packages, including `geopandas`, `contextily`, `seaborn`, `libpysal`, `esda`, `splot`, and `osmnx`. 
 
