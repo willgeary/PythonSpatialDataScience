@@ -40,10 +40,12 @@ You can simply install the above in your own existing Python enviroment, or if y
 
 `conda activate spatialstats`
 
-5) Add the environment to Jupyter Lab
+5) Add the environment as a kernel to Jupyter Lab
 
 `python -m ipykernel install --sys-prefix --name spatialstats`
 
 6) Launch Jupyter Lab
 
 `jupyter lab`
+
+Proceed to launch `notebook.ipynb` using the `spatialstats` kernel.
