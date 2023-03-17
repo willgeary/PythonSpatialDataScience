@@ -7,7 +7,7 @@ Instructor: [Will Geary](https://www.linkedin.com/in/willgeary/), Senior Data Sc
 In this workshop, we will perform spatial analysis on ridehail trips in NYC. We will cover the following:
 
     1) Perfom some necessary cleaning on the data
-    2) Illustrate the Modifiable Areal Unit Problem (MAUP) and why we can't simply analyze the count of pickups per zone
+    2) Illustrate the Modifiable Areal Unit Problem (MAUP) and why we shouldn't simply analyze raw count of pickups
     3) Calculate pickup density per zone
     4) Make some simple choropleth maps
     5) Perform a statistical Cluster and Outlier analysis. This requires a few steps:
