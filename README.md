@@ -36,6 +36,14 @@ You can simply install the above in your own existing Python enviroment, or if y
 
 `conda env create --file environment.yml --force`
 
-4) Activate the conda environment:
+4) Activate the conda environment
 
 `conda activate spatialstats`
+
+5) Add the environment to Jupyter Lab
+
+`python -m ipykernel install --sys-prefix --name spatialstats`
+
+6) Launch Jupyter Lab
+
+`jupyter lab`
