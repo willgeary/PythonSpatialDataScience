@@ -22,10 +22,20 @@ See [notebook.ipynb](https://github.com/willgeary/PythonSpatialDataScience/blob/
 
 This workshop will require Python 3 and several packages, including `geopandas`, `contextily`, `seaborn`, `libpysal`, `esda`, `splot`, and `osmnx`. 
 
-You can simply install the above in your own existing Python enviroment, or if you wish, you may optionally spin up a conda environment called `spatialstats` to exactly match mine with:
+You can simply install the above in your own existing Python enviroment, or if you wish, you may optionally spin up a conda environment to exactly match mine with the following steps.
+
+1) Clone the repository
+
+`git clone https://github.com/willgeary/PythonSpatialDataScience`
+
+2) Enter the respository
+
+`cd PythonSpatialDataScience`
+
+3) Create the conda environment
 
 `conda env create --file environment.yml --force`
 
-and activate it with:
+4) Activate the conda environment:
 
 `conda activate spatialstats`
