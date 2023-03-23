@@ -287,4 +287,3 @@ dependencies:
   - zstd=1.5.2=hbc0c0cd_6
   - pip:
       - osmnx==1.3.0
-prefix: /Users/will/miniconda3/envs/spatialstats
